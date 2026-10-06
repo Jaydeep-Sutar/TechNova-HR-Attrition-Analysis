@@ -120,7 +120,7 @@ Key activities included:
 
 The interactive Excel dashboard provides an overview of workforce attrition patterns.
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Screenshots/TechNova_HR_Attrition_Dashboard.png)
 
 ### Dashboard Includes
 
